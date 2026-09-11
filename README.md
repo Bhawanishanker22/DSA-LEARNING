@@ -11,12 +11,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0704-binary-search) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0704-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
