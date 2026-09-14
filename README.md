@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0836-rectangle-overlap) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
