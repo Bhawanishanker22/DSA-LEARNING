@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Bhawanishanker22/DSA-LEARNING/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
